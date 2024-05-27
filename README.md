@@ -1,4 +1,4 @@
-# **Loan Performance Analysis**
+# **Loan Portfolio Analysis**
 
 ![bank_loan](/src/img/bank_loan.jpg)
 
