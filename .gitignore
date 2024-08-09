@@ -1,4 +1,4 @@
 # Custom ignored files
 
 # Custom ignored folders
-**/hidden/
+./src/hidden/
